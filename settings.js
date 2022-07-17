@@ -54,7 +54,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉ටිකක් ඉදපල්ල අඩෙ👈',
+    wait: '👉ටිකක් ඉදපල්ල අඩේ 👈',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
